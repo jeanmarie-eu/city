@@ -3,7 +3,8 @@ Type: Package
 Version: 0.0.1
 Authors@R: c(person("Jean-Marie", "Lepioufle", , "jm@nexmodeling.com", c("aut","cre")))
 Title: City data
-Description: A city dataset is embedded to this package
+Description: The R-package gathers city shapefiles converted into S4 spatial object.
+   Datasets respect the UTF-8 format.
 Depends:
     R (>= 3.2.5)
 License: GPL-3

@@ -3,7 +3,7 @@
 #' Norwegian cities
 #'
 #' @docType data
-#' @name border_communes
+#' @name city_norway
 #' @format A rda file
 #' @keywords datasets
 #' @references to be added
